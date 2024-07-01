@@ -1,5 +1,89 @@
-(kicad_sch (version 20230121) (generator eeschema)
-  (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "e0335a39-2917-4993-8bc8-e5e4f72c0f3a")
+	(paper "A3")
+	(lib_symbols)
+	(sheet
+		(at 133.35 105.41)
+		(size 41.91 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1c86dfdd-29c8-44c6-8f61-8efec212365b")
+		(property "Sheetname" "MCU_etc"
+			(at 133.35 104.6984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP_32_breakout.kicad_sch"
+			(at 133.35 139.0146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "14s BMS"
+				(path "/e0335a39-2917-4993-8bc8-e5e4f72c0f3a"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 237.49 105.41)
+		(size 48.26 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8df0f1e3-2d35-458c-9998-412601c8e2ea")
+		(property "Sheetname" "LTC6813"
+			(at 237.49 104.6984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LTC6813-1_breakout.kicad_sch"
+			(at 237.49 141.5546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "14s BMS"
+				(path "/e0335a39-2917-4993-8bc8-e5e4f72c0f3a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
 )
