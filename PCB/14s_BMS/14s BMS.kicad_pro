@@ -350,11 +350,29 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Part",
+          "name": "Part",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -409,6 +427,10 @@
     [
       "8df0f1e3-2d35-458c-9998-412601c8e2ea",
       "LTC6813"
+    ],
+    [
+      "0d28d5a6-2cd9-41b9-9053-462238d6af02",
+      "LM38020"
     ]
   ],
   "text_variables": {}

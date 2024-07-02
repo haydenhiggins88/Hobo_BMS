@@ -6,6 +6,44 @@
 	(paper "A3")
 	(lib_symbols)
 	(sheet
+		(at 43.18 49.53)
+		(size 36.83 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0d28d5a6-2cd9-41b9-9053-462238d6af02")
+		(property "Sheetname" "LM38020"
+			(at 43.18 48.7041 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LM38020_converter.kicad_sch"
+			(at 43.18 71.8189 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "14s BMS"
+				(path "/e0335a39-2917-4993-8bc8-e5e4f72c0f3a"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 133.35 105.41)
 		(size 41.91 33.02)
 		(fields_autoplaced yes)
