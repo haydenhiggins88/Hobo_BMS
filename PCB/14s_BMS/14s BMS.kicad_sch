@@ -3,11 +3,11 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "e0335a39-2917-4993-8bc8-e5e4f72c0f3a")
-	(paper "A3")
+	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 43.18 49.53)
-		(size 36.83 21.59)
+		(at 22.86 72.39)
+		(size 44.45 38.1)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.381)
@@ -18,7 +18,7 @@
 		)
 		(uuid "0d28d5a6-2cd9-41b9-9053-462238d6af02")
 		(property "Sheetname" "LM38020"
-			(at 43.18 48.7041 0)
+			(at 22.86 71.5641 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27,7 +27,7 @@
 			)
 		)
 		(property "Sheetfile" "LM38020_converter.kicad_sch"
-			(at 43.18 71.8189 0)
+			(at 22.86 111.1889 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44,8 +44,8 @@
 		)
 	)
 	(sheet
-		(at 133.35 105.41)
-		(size 41.91 33.02)
+		(at 113.03 74.93)
+		(size 54.61 44.45)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -56,7 +56,7 @@
 		)
 		(uuid "1c86dfdd-29c8-44c6-8f61-8efec212365b")
 		(property "Sheetname" "MCU_etc"
-			(at 133.35 104.6984 0)
+			(at 113.03 74.2184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65,7 +65,7 @@
 			)
 		)
 		(property "Sheetfile" "ESP_32_breakout.kicad_sch"
-			(at 133.35 139.0146 0)
+			(at 113.03 119.9646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -82,7 +82,7 @@
 		)
 	)
 	(sheet
-		(at 237.49 105.41)
+		(at 196.85 80.01)
 		(size 48.26 35.56)
 		(fields_autoplaced yes)
 		(stroke
@@ -94,7 +94,7 @@
 		)
 		(uuid "8df0f1e3-2d35-458c-9998-412601c8e2ea")
 		(property "Sheetname" "LTC6813"
-			(at 237.49 104.6984 0)
+			(at 196.85 79.2984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -103,7 +103,7 @@
 			)
 		)
 		(property "Sheetfile" "LTC6813-1_breakout.kicad_sch"
-			(at 237.49 141.5546 0)
+			(at 196.85 116.1546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
